@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "451529027388",
+    "firebase_url": "https://locateme-d8bbf.firebaseio.com",
+    "project_id": "locateme-d8bbf",
+    "storage_bucket": "locateme-d8bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451529027388:android:c8a16f071a9b0c0e",
+        "android_client_info": {
+          "package_name": "com.atamin.locateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451529027388-dprtibhb11krlpgee9c91h6g22rq41op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPZM4cyuUlbKB5K8QO0se45pcc_8qAZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
